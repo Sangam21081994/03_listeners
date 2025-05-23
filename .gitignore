@@ -1,0 +1,37 @@
+# Gradle
+.gradle/
+build/
+
+# Maven
+target/
+
+# TestNG output
+test-output/
+
+# IDE-specific files
+.idea/
+*.iml
+*.ipr
+*.iws
+.classpath
+.project
+.settings/
+
+# Compiled class files (though 'target/' covers most of this for Maven)
+bin/
+*.class
+
+# Log files
+*.log
+
+# Package files (though 'target/' covers .jar, .war, .ear for Maven)
+*.jar
+*.war
+*.ear
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Secrets and sensitive information (if any, add specific files here)
+# e.g. secrets.properties
