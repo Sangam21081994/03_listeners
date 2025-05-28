@@ -35,3 +35,18 @@ Thumbs.db
 
 # Secrets and sensitive information (if any, add specific files here)
 # e.g. secrets.properties
+
+# Allure specific
+allure-report/
+allure-results/
+.allure/
+
+# VSCode specific
+.vscode/
+
+# Eclipse metadata
+.metadata/
+
+# Temporary/Scratch files
+Untitled-*.xml
+# command.txt # Add this line if command.txt is a temporary or generated file not essential to the project
